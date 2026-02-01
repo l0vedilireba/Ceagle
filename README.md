@@ -82,6 +82,9 @@ docker run -d --name Ceagle \
 3) 内网部署是否需要外网依赖
 - 前端不依赖外网。
 - ffmpeg 只需存在于后端环境（Docker 镜像已包含）。
+## 截图
+<img width="2504" height="1241" alt="ScreenShot_2026-02-01_153118_141" src="https://github.com/user-attachments/assets/ba97826a-093f-4cb1-b94c-b973ab49e88d" />
+<img width="2508" height="1236" alt="ScreenShot_2026-02-01_153129_159" src="https://github.com/user-attachments/assets/f9c42428-0960-4993-817a-763ecec4bcdf" />
 
 ## License\nApache-2.0
 
