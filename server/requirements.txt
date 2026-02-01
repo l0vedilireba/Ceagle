@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn==0.30.0
+pillow==10.4.0
+python-multipart==0.0.9
+rawpy==0.21.0
+pillow-heif==0.9.0

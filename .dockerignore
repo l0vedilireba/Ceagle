@@ -1,0 +1,8 @@
+node_modules
+web/node_modules
+web/dist
+server/__pycache__
+server/data
+server/storage
+.vscode
+.DS_Store
